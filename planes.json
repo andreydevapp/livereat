@@ -1,0 +1,33 @@
+{
+    "nombrePlan":"Emprendedor",
+    "pagoAnual":{
+      "periodo":{
+        "meses":12,
+        "descuento":0.10
+      },
+      "precio":{
+        "valor": 96,
+        "precioConAhorro": 86
+      }
+    },
+    "pagoSemestral":{
+        "periodo":{
+          "meses":6,
+          "descuento":0.5
+        },
+        "precio":{
+          "valor": 56,
+          "precioConAhorro": 46
+        }
+    },
+    "pagoMensual":{
+        "periodo":{
+          "meses":1,
+          "descuento":0
+        },
+        "precio":{
+          "valor":8,
+          "precioConAhorro":8
+        }
+    }
+}    

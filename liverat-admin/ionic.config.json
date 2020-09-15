@@ -1,7 +1,0 @@
-{
-  "name": "food-angela-client",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
